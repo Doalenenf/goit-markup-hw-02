@@ -98,6 +98,7 @@ img {
     color: #ffffff;
     max-width: 496px;
     margin: 0 auto 48px;
+    text-align: center
 }
 
 .hero-bttn {
@@ -131,15 +132,7 @@ img {
 }
 
 
-.features-title {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-    margin-bottom: 72px;
-}
+
 
 .features-text {
     font-size: 16px;
@@ -222,6 +215,6 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: #F4F4FD;
     max-width: 264px;
 }
